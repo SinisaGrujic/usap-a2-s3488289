@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/SinisaGrujic/usap-a2-s3488289.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
