@@ -1,6 +1,7 @@
 class user {
 
 	require groups
+	require packages
 
 	user { 'becca' :
 		ensure     => present,
