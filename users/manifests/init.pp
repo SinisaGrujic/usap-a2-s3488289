@@ -1,5 +1,7 @@
 class user {
 
+	require groups
+
 	user { 'becca' :
 		ensure     => present,
 		uid        => '10018289',
