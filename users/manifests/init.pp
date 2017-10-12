@@ -30,6 +30,7 @@ class user {
 		password       => ‘$1$P68rTzzK$52sWGl1ZGqt0nLFA1qD740’,
 		groups         => ['trucks', 'cars', 'ambulances'],
 		shell          => '/bin/bash',
+                purge_ssh_keys => true,
 	}
 
         -> ssh_authorized_key { 'wilma_ssh' :
@@ -37,7 +38,6 @@ class user {
                 user   => 'wilma',
                 type   => 'ssh-rsa',
                 key    => 'WilmansKey', #to be generated using ssh-keygen
-		purge_ssh_keys => true,
         }
 }
 
