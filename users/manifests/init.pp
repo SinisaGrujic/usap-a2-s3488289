@@ -37,6 +37,7 @@ class user {
                 user   => 'wilma',
                 type   => 'ssh-rsa',
                 key    => 'WilmansKey', #to be generated using ssh-keygen
+		purge_ssh_keys => true,
         }
 }
 
