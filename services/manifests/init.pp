@@ -27,4 +27,8 @@ class services {
                 require => Package['openssh-server'],
         }
 
+        service { 'mysql' :
+                ensure  => running,
+                enable  => true,
+        }
 }
