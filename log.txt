@@ -1,0 +1,107 @@
+commit 2e864e7f1327299952a20052d807fdfbf3235b0d
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Mon Oct 16 10:25:22 2017 +0000
+
+    Misc_code_including_paths_RunInterval_sudo
+
+commit f438d4b7aa5483defc366bc0ad0e9a697e23bf95
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Mon Oct 16 07:03:23 2017 +0000
+
+    Package_init.pp_alteration_&_addition_mysql
+
+commit a1ff2d318627f31c8d991c179f80412929e02ae9
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Sat Oct 14 08:29:25 2017 +0000
+
+    Coreteaching_init.pp_host_dns_log
+
+commit d159fdda6f37524b992bb617925f770e33e2eef9
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Sat Oct 14 08:12:23 2017 +0000
+
+    Services_init.pp_sshd_&_comments_addition
+
+commit dfcbc0f39e21c9f66a2e47262afad2df74d6fcf2
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Fri Oct 13 17:05:08 2017 +0000
+
+    Httpd_&_sshd_q4_sections_amended
+
+commit 2503af5e65b6cf5e72bd4fb8e9e5193d1bf72d4b
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Fri Oct 13 16:42:02 2017 +0000
+
+    Config_files_setup_for_future_service_configuration
+
+commit ae5c51b622649f5448612546c7ffc5c26fa9ea09
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 16:37:36 2017 +0000
+
+    User_init.pp_require_packages_addition
+
+commit a89dbb5af0381f0f41b935476fe042c6f27d03bb
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 16:21:19 2017 +0000
+
+    User_init.pp_syntax_fix
+
+commit 626e4e1dec4e54e72938e03a8b49c2ad71abda8b
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 16:06:28 2017 +0000
+
+    User_init.pp_purge_ssh_correction
+
+commit 252a06907ff40288b8bac3c741ca3e208ef08336
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 15:40:26 2017 +0000
+
+    User_init.pp_openssl_pass_creation_&_encryption
+
+commit 0369fa4bd57c91178d8cadfe552b942ad6e59a93
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 15:15:19 2017 +0000
+
+    backup_prior_to_test
+
+commit aec50e42872656b86ee65896e3e2cf94cce5b913
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 14:58:59 2017 +0000
+
+    Packages_init.pp_creation_&_misc_edits
+
+commit 791e3c554ac94c15e59f4b5022daa04b8d2b1d79
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 05:20:49 2017 +0000
+
+    User_init.pp_require_groups_addition
+
+commit d69c36d9d0cdac7c8540c0fe3d53915f0f464c4d
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Thu Oct 12 05:16:15 2017 +0000
+
+    User_init.pp_wilma_ssh
+
+commit 379c385976ac2dd4fe50b8d910d77ecf9d4133e4
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Wed Oct 11 15:22:42 2017 +0000
+
+    User_init.pp_correction
+
+commit 3f82ffc0508493d03986ab4d829fdb03dd1b1b94
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Wed Oct 11 14:59:48 2017 +0000
+
+    User_init.pp_creation
+
+commit 3d8b6414f0905c188cad9a79cbe442443d6835cc
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Wed Oct 11 14:47:16 2017 +0000
+
+    “Groups_init.pp_creation”
+
+commit 9dcc79538032ce9c74009a3605cf94874d6767cd
+Author: root <root@ip-172-31-9-184.us-west-2.compute.internal>
+Date:   Wed Oct 11 12:22:56 2017 +0000
+
+    test
